@@ -6,6 +6,12 @@
 
 > 欢迎在 [Issues](https://github.com/Seekload/go-interview/issues) 和大家讨论学习，共同进步！
 
+
+## 历史面试题
+- 第 1 天（2019.08.23）<br>
+[下面这段代码输出什么(defer、panic)](https://github.com/Seekload/go-interview/issues/2)
+
+
 ## 抱团学习
 如果项目能给你一点点帮助，花 1s 时间点个 star，感谢！
 
@@ -14,9 +20,6 @@
 <img src="https://img-blog.csdnimg.cn/20190329073452382.jpg">
 
 
-## 历史面试题
-- 第 1 天（2019.08.23）<br>
-[下面这段代码输出什么(defer、panic)](https://github.com/Seekload/go-interview/issues/2)
 
 
 ## 重大事件
