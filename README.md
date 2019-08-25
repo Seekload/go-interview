@@ -8,15 +8,21 @@
 
 
 
-## 今日面试题（2019.8.24）-- 【第 2 天】
-- [下面这段代码输出什么，说明原因（for range）](https://github.com/Seekload/go-interview/issues/3)
+## 今日面试题（2019.8.25）-- 【第 3 天】
+- [两段代码输出什么（append）](https://github.com/Seekload/go-interview/issues/4)
+- [这段代码有什么缺陷（返回值）](https://github.com/Seekload/go-interview/issues/5)
+- [new() 与 make() 的区别](https://github.com/Seekload/go-interview/issues/6)
+
 
 > 欢迎在 [Issues](https://github.com/Seekload/go-interview/issues) 和大家讨论学习，共同进步！
 
 
 ## 历史面试题
+- 第 2 天（2019.08.24）<br>
+1.[这段代码输出什么，说明原因（for range）](https://github.com/Seekload/go-interview/issues/3)
+
 - 第 1 天（2019.08.23）<br>
-1.[下面这段代码输出什么(defer、panic)](https://github.com/Seekload/go-interview/issues/2)
+1.[这段代码输出什么(defer、panic)](https://github.com/Seekload/go-interview/issues/2)
 
 
 ## 抱团学习
