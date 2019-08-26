@@ -3,21 +3,27 @@
 - 提倡每天学习 **15** 分钟，**日拱一卒，每天进步一点，相信坚持的力**量；
 - 欢迎大家到 Issues 交流，鼓励 PR，**感谢 star**，希望可以帮助你！
 
-送给大家一句话，**共勉**
+送大家一句话，**共勉**
 > **所有学习上的成功，都只依靠两件事 -- 策略和坚持，而坚持本身就是最重要的策略！**
 
 
 
-## 今日面试题（2019.8.25）-- 【第 3 天】
-- [两段代码输出什么（append）](https://github.com/Seekload/go-interview/issues/4)
-- [这段代码有什么缺陷（返回值）](https://github.com/Seekload/go-interview/issues/5)
-- [new() 与 make() 的区别](https://github.com/Seekload/go-interview/issues/6)
+## 最新面试题（2019.8.26）-- 【第 4 天】
+1. [下面这段代码能否通过编译，不能的话原因是什么；如果能，输出什么。（new() 函数）](https://github.com/Seekload/go-interview/issues/7)
+2. [下面这段代码能否通过编译，如果可以，输出什么？（append() 函数）](https://github.com/Seekload/go-interview/issues/8)
+3. [下面这段代码能否通过编译，如果可以，输出什么？（变量声明）](https://github.com/Seekload/go-interview/issues/9)
+
 
 
 > 欢迎在 [Issues](https://github.com/Seekload/go-interview/issues) 和大家讨论学习，共同进步！
 
 
 ## 历史面试题
+- 第 3 天（2019.08.25）<br>
+1.[两段代码输出什么（append）](https://github.com/Seekload/go-interview/issues/4)<br>
+2.[这段代码有什么缺陷（返回值）](https://github.com/Seekload/go-interview/issues/5)<br>
+3.[new() 与 make() 的区别](https://github.com/Seekload/go-interview/issues/6)
+
 - 第 2 天（2019.08.24）<br>
 1.[这段代码输出什么，说明原因（for range）](https://github.com/Seekload/go-interview/issues/3)
 
