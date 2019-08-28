@@ -8,17 +8,23 @@
 
 
 
-## 最新面试题（2019.8.26）-- 【第 4 天】
-1. [下面这段代码能否通过编译，不能的话原因是什么；如果能，输出什么。（new() 函数）](https://github.com/Seekload/go-interview/issues/7)
-2. [下面这段代码能否通过编译，如果可以，输出什么？（append() 函数）](https://github.com/Seekload/go-interview/issues/8)
-3. [下面这段代码能否通过编译，如果可以，输出什么？（变量声明）](https://github.com/Seekload/go-interview/issues/9)
-
+## 最新面试题（2019.8.28）-- 【第 6 天】
+1. [通过指针变量 p 访问其成员变量 name，有哪几种方式？](https://github.com/Seekload/go-interview/issues/12)
+2. [下面这段代码能否通过编译？如果通过，输出什么？(别名、重命名) ](https://github.com/Seekload/go-interview/issues/13)
 
 
 > 欢迎在 [Issues](https://github.com/Seekload/go-interview/issues) 和大家讨论学习，共同进步！
 
 
 ## 历史面试题
+- 第 5 天（2019.08.27）<br>
+1. [下面这段代码能否通过编译？不能的话，原因是什么？如果通过，输出什么？（结构体比较）](https://github.com/Seekload/go-interview/issues/11)
+
+- 第 4 天（2019.08.26）<br>
+1. [下面这段代码能否通过编译，不能的话原因是什么；如果能，输出什么。（new() 函数）](https://github.com/Seekload/go-interview/issues/7)
+2. [下面这段代码能否通过编译，如果可以，输出什么？（append() 函数）](https://github.com/Seekload/go-interview/issues/8)
+3. [下面这段代码能否通过编译，如果可以，输出什么？（变量声明）](https://github.com/Seekload/go-interview/issues/9)
+
 - 第 3 天（2019.08.25）<br>
 1.[两段代码输出什么（append）](https://github.com/Seekload/go-interview/issues/4)<br>
 2.[这段代码有什么缺陷（返回值）](https://github.com/Seekload/go-interview/issues/5)<br>
