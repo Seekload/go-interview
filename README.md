@@ -17,7 +17,6 @@
 
 
 ## 历史面试题
-（2019.8.28）-- 【第 6 天】
 
 - 第 6 天（2019.08.28）<br>
 1.[通过指针变量 p 访问其成员变量 name，有哪几种方式？](https://github.com/Seekload/go-interview/issues/12)<br>
