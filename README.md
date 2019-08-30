@@ -8,15 +8,19 @@
 
 
 
-## 最新面试题（2019.8.29）-- 【第 7 天】
-1.[关于字符串连接，下面语法正确的是？](https://github.com/Seekload/go-interview/issues/14)<br>
-2.[下面这段代码能否编译通过？如果可以，输出什么？（iota 的用法） ](https://github.com/Seekload/go-interview/issues/15)<br>
-3.[下面赋值正确的是？（知识点：nil）](https://github.com/Seekload/go-interview/issues/16)
+## 最新面试题（2019.8.30）-- 【第 8 天】
+1.[关于init函数，下面说法正确的是()](https://github.com/Seekload/go-interview/issues/17)<br>
+2.[下面这段代码输出什么以及原因？（函数变量） ](https://github.com/Seekload/go-interview/issues/18)<br>
+3.[下面这段代码能否编译通过？如果可以，输出什么？（类型选择） ](https://github.com/Seekload/go-interview/issues/19)
 
 > 欢迎在 [Issues](https://github.com/Seekload/go-interview/issues) 和大家讨论学习，共同进步！
 
 
 ## 历史面试题
+- 第 7 天（2019.08.29）<br>
+1.[关于字符串连接，下面语法正确的是？](https://github.com/Seekload/go-interview/issues/14)<br>
+2.[下面这段代码能否编译通过？如果可以，输出什么？（iota 的用法） ](https://github.com/Seekload/go-interview/issues/15)<br>
+3.[下面赋值正确的是？（知识点：nil）](https://github.com/Seekload/go-interview/issues/16)
 
 - 第 6 天（2019.08.28）<br>
 1.[通过指针变量 p 访问其成员变量 name，有哪几种方式？](https://github.com/Seekload/go-interview/issues/12)<br>
