@@ -8,15 +8,89 @@
 
 
 
-## 最新面试题（2019.8.31）-- 【第 9 天】
-1.[关于 channel，下面语法正确的是](https://github.com/Seekload/go-interview/issues/20)<br>
-2.[下面这段代码输出什么？（map）](https://github.com/Seekload/go-interview/issues/21)<br>
-3.[下面这段代码输出什么？（可变函数） ](https://github.com/Seekload/go-interview/issues/22)
+## 最新面试题（2019.09.12）-- 【第 21 天】
+
+
+1.[下面的两个切片声明中有什么区别？哪个更可取？](https://github.com/Seekload/go-interview/issues/51)<br>
+2.[A、B、C、D 哪些选项有语法错误？](https://github.com/Seekload/go-interview/issues/52)<br>
+3.[下面 A、B 两处应该填入什么代码，才能确保顺利打印出结果？ ](https://github.com/Seekload/go-interview/issues/53)
+
 
 > 欢迎在 [Issues](https://github.com/Seekload/go-interview/issues) 和大家讨论学习，共同进步！
 
 
 ## 历史面试题
+
+- 第 20 天（2019.09.11）<br>
+1.[下面这段代码正确的输出是什么？（defer）](https://github.com/Seekload/go-interview/issues/49)<br>
+2.[下面代码输出什么？（defer）](https://github.com/Seekload/go-interview/issues/50)<br>
+
+
+- 第 19 天（2019.09.10）<br>
+1.[下面代码段输出什么？（defer）](https://github.com/Seekload/go-interview/issues/48)<br>
+
+
+- 第 18 天（2019.09.09）<br>
+1.[f1()、f2()、f3() 函数分别返回什么？](https://github.com/Seekload/go-interview/issues/47)<br>
+
+
+- 第 17 天（2019.09.08）<br>
+1.[下面代码中，x 已声明，y 没有声明，判断每条语句的对错。](https://github.com/Seekload/go-interview/issues/44)<br>
+2.[下面代码输出什么？（defer）](https://github.com/Seekload/go-interview/issues/45)<br>
+3.[下面代码输出什么？（接口）](https://github.com/Seekload/go-interview/issues/46)
+
+
+- 第 16 天（2019.09.07）<br>
+1.[切片 a、b、c 的长度和容量分别是多少？](https://github.com/Seekload/go-interview/issues/41)<br>
+2.[下面代码中 A B 两处应该怎么修改才能顺利编译？](https://github.com/Seekload/go-interview/issues/42)<br>
+3.[下面代码输出什么？（接口）](https://github.com/Seekload/go-interview/issues/43)
+
+
+
+
+- 第 15 天（2019.09.06）<br>
+1.[下面代码下划线处可以填入哪个选项？](https://github.com/Seekload/go-interview/issues/38)<br>
+2.[下面这段代码输出什么？（强制类型转换）](https://github.com/Seekload/go-interview/issues/39)<br>
+3.[下面这段代码输出什么？（接口）](https://github.com/Seekload/go-interview/issues/40)
+
+
+- 第 14 天（2019.09.05）<br>
+1.[下列选项正确的是？（字符串）](https://github.com/Seekload/go-interview/issues/35)<br>
+2.[下面代码输出什么？（指针）](https://github.com/Seekload/go-interview/issues/36)<br>
+3.[对 add() 函数调用正确的是（）](https://github.com/Seekload/go-interview/issues/37)
+
+
+- 第 13 天（2019.09.04）<br>
+1.[定义一个包内全局字符串变量，下面语法正确的是()](https://github.com/Seekload/go-interview/issues/32)<br>
+2.[下面这段代码输出什么?（defer）](https://github.com/Seekload/go-interview/issues/34)<br>
+3.[下面这段代码输出什么？（结构体）](https://github.com/Seekload/go-interview/issues/33)
+
+
+
+- 第 12 天（2019.09.03）<br>
+1.[下面属于关键字的是()](https://github.com/Seekload/go-interview/issues/29)<br>
+2.[下面这段代码输出什么？（格式化输出）](https://github.com/Seekload/go-interview/issues/30)<br>
+3.[下面这段代码输出什么？（方法）](https://github.com/Seekload/go-interview/issues/31)
+
+
+- 第 11 天（2019.09.02）<br>
+1.[关于 cap() 函数的适用类型，下面说法正确的是](https://github.com/Seekload/go-interview/issues/26)<br>
+2.[下面这段代码输出什么？（nil 接口）](https://github.com/Seekload/go-interview/issues/27)<br>
+3.[下面这段代码输出什么？（delete()函数） ](https://github.com/Seekload/go-interview/issues/28)
+
+
+- 第 10 天（2019.09.01）<br>
+1.[下面这段代码输出什么？（类型）](https://github.com/Seekload/go-interview/issues/23)<br>
+2.[下面这段代码输出什么？（切片操作）](https://github.com/Seekload/go-interview/issues/24)<br>
+3.[下面这段代码输出什么？（数组比较） ](https://github.com/Seekload/go-interview/issues/25)
+
+
+- 第 9 天（2019.08.31）<br>
+1.[关于 channel，下面语法正确的是](https://github.com/Seekload/go-interview/issues/20)<br>
+2.[下面这段代码输出什么？（map）](https://github.com/Seekload/go-interview/issues/21)<br>
+3.[下面这段代码输出什么？（可变函数） ](https://github.com/Seekload/go-interview/issues/22)
+
+
 - 第 8 天（2019.08.30）<br>
 1.[关于init函数，下面说法正确的是()](https://github.com/Seekload/go-interview/issues/17)<br>
 2.[下面这段代码输出什么以及原因？（函数变量） ](https://github.com/Seekload/go-interview/issues/18)<br>
@@ -54,7 +128,13 @@
 ## 抱团学习
 如果项目能给你一点点帮助，花 1s 时间帮点个 star，感谢！
 
-欢迎大家扫码关注公众号「Golang来啦」，想要加入学习群的同学可以点击公众号的菜单【上车->技术交流群】加入。
+欢迎大家扫码关注公众号「Golang来啦」，想要加入学习群的同学可以点击公众号的菜单【上车->技术交流群】加入，名额有限！
+
+在群里你可以得到：
+- 结识一群志同道合的学习 Go 技术的小伙伴；
+- 交流面试题答案、探讨技术；
+- 获取 Go 相关最新的前沿资讯；
+
 
 <img src="https://img-blog.csdnimg.cn/20190329073452382.jpg">
 
@@ -63,3 +143,7 @@
 
 ## 重大事件
 - 2019.08.23 -- 项目起步，通过提交 issue 的方式提交题目，方便大家参与讨论。
+
+
+## 想法来自 浪子神剑 的《前端面试每日 3+1》
+https://github.com/haizlin/fe-interview
