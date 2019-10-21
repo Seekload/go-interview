@@ -2,6 +2,30 @@
 >注：不包含当天的题目，当天的题在首页。
 
 
+- 第 48 天（2019.10.20）<br>
+1.[下面代码有什么问题？（简短声明）](https://github.com/Seekload/go-interview/issues/54)<br>
+2.[下面的代码输出什么？（运算符）](https://github.com/Seekload/go-interview/issues/55)<br>
+
+- 第 47 天（2019.10.19）<br>
+1.[下面的代码有什么问题？（自增、自减）](https://github.com/Seekload/go-interview/issues/56)<br>
+2.[下面代码最后一行输出什么？请说明原因。（作用域）](https://github.com/Seekload/go-interview/issues/57)<br>
+
+
+- 第 46 天（2019.10.18）<br>
+1.[下面的代码有什么问题？（常量）](https://github.com/Seekload/go-interview/issues/58)<br>
+2.[下面代码输出什么？（常量）](https://github.com/Seekload/go-interview/issues/59)<br>
+3.[下面代码有什么问题？（string）](https://github.com/Seekload/go-interview/issues/60)<br>
+
+
+- 第 45 天（2019.10.17）<br>
+1.[下面代码有什么错误？（变量）](https://github.com/Seekload/go-interview/issues/61)<br>
+2.[下面代码有什么问题？（slice 字面量））](https://github.com/Seekload/go-interview/issues/62)<br>
+3.[下面代码输出什么？（rune、byte））](https://github.com/Seekload/go-interview/issues/63)<br>
+
+
+..... 
+
+
 - 第 21 天（2019.09.12）<br>
 1.[下面的两个切片声明中有什么区别？哪个更可取？](https://github.com/Seekload/go-interview/issues/51)<br>
 2.[A、B、C、D 哪些选项有语法错误？](https://github.com/Seekload/go-interview/issues/52)<br>
