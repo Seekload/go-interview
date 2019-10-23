@@ -8,10 +8,10 @@
 
 
 
-## 最新面试题（2019.10.22）-- 【第 50 天】
+## 最新面试题（2019.10.23）-- 【第 51 天】
 
-1.[下面这段代码输出什么？（切片） ](https://github.com/Seekload/go-interview/issues/66)<br>
-2.[下面代码输出什么？（switch）](https://github.com/Seekload/go-interview/issues/67)<br>
+1.[下面的代码能否正确输出？（函数）](https://github.com/Seekload/go-interview/issues/68)<br>
+2.[下面代码输出什么？（切片））](https://github.com/Seekload/go-interview/issues/69)<br>
 
 
 
@@ -20,6 +20,10 @@
 
 ## 历史面试题
 - [**查看全部**](https://github.com/Seekload/go-interview/blob/master/category/history.md)<br>
+
+- 第 50 天（2019.10.22）<br>
+1.[下面这段代码输出什么？（切片） ](https://github.com/Seekload/go-interview/issues/66)<br>
+2.[下面代码输出什么？（switch）](https://github.com/Seekload/go-interview/issues/67)<br>
 
 - 第 49 天（2019.10.21）<br>
 1.[下面代码输出什么？（channel）](https://github.com/Seekload/go-interview/issues/64)<br>

@@ -1,6 +1,10 @@
 ## 历史题目
 >注：不包含当天的题目，当天的题在首页。
 
+- 第 50 天（2019.10.22）<br>
+1.[下面这段代码输出什么？（切片） ](https://github.com/Seekload/go-interview/issues/66)<br>
+2.[下面代码输出什么？（switch）](https://github.com/Seekload/go-interview/issues/67)<br>
+
 - 第 49 天（2019.10.21）<br>
 1.[下面代码输出什么？（channel）](https://github.com/Seekload/go-interview/issues/64)<br>
 2.[下面这段代码输出什么？（json 解析）](https://github.com/Seekload/go-interview/issues/65)<br>
