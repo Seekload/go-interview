@@ -8,10 +8,10 @@
 
 
 
-## 最新面试题（2019.10.23）-- 【第 51 天】
+## 最新面试题（2019.10.24）-- 【第 52 天】
 
-1.[下面的代码能否正确输出？（函数）](https://github.com/Seekload/go-interview/issues/68)<br>
-2.[下面代码输出什么？（切片））](https://github.com/Seekload/go-interview/issues/69)<br>
+1.[下面的代码有什么问题？（方法）](https://github.com/Seekload/go-interview/issues/71)<br>
+2.[下面代码有什么不规范的地方吗？](https://github.com/Seekload/go-interview/issues/70)<br>
 
 
 
@@ -21,6 +21,11 @@
 ## 历史面试题
 - [**查看全部**](https://github.com/Seekload/go-interview/blob/master/category/history.md)<br>
 
+
+- 第 51 天（2019.10.23）<br>
+1.[下面的代码能否正确输出？（函数）](https://github.com/Seekload/go-interview/issues/68)<br>
+2.[下面代码输出什么？（切片）](https://github.com/Seekload/go-interview/issues/69)<br>
+
 - 第 50 天（2019.10.22）<br>
 1.[下面这段代码输出什么？（切片） ](https://github.com/Seekload/go-interview/issues/66)<br>
 2.[下面代码输出什么？（switch）](https://github.com/Seekload/go-interview/issues/67)<br>
@@ -29,21 +34,9 @@
 1.[下面代码输出什么？（channel）](https://github.com/Seekload/go-interview/issues/64)<br>
 2.[下面这段代码输出什么？（json 解析）](https://github.com/Seekload/go-interview/issues/65)<br>
 
-- 第 48 天（2019.10.20）<br>
-1.[下面代码有什么问题？（简短声明）](https://github.com/Seekload/go-interview/issues/54)<br>
-2.[下面的代码输出什么？（运算符）](https://github.com/Seekload/go-interview/issues/55)<br>
-
-- 第 47 天（2019.10.19）<br>
-1.[下面的代码有什么问题？（自增、自减）](https://github.com/Seekload/go-interview/issues/56)<br>
-2.[下面代码最后一行输出什么？请说明原因。（作用域）](https://github.com/Seekload/go-interview/issues/57)<br>
-
-
-- 第 46 天（2019.10.18）<br>
-1.[下面的代码有什么问题？（常量）](https://github.com/Seekload/go-interview/issues/58)<br>
-2.[下面代码输出什么？（常量）](https://github.com/Seekload/go-interview/issues/59)<br>
-3.[下面代码有什么问题？（string）](https://github.com/Seekload/go-interview/issues/60)<br>
 
 ......
+
 
 - 第 3 天（2019.08.25）<br>
 1.[两段代码输出什么（append）](https://github.com/Seekload/go-interview/issues/4)<br>

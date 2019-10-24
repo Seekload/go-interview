@@ -1,6 +1,11 @@
 ## 历史题目
 >注：不包含当天的题目，当天的题在首页。
 
+- 第 51 天（2019.10.23）<br>
+1.[下面的代码能否正确输出？（函数）](https://github.com/Seekload/go-interview/issues/68)<br>
+2.[下面代码输出什么？（切片）](https://github.com/Seekload/go-interview/issues/69)<br>
+
+
 - 第 50 天（2019.10.22）<br>
 1.[下面这段代码输出什么？（切片） ](https://github.com/Seekload/go-interview/issues/66)<br>
 2.[下面代码输出什么？（switch）](https://github.com/Seekload/go-interview/issues/67)<br>
