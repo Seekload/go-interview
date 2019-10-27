@@ -8,11 +8,10 @@
 
 
 
-## 最新面试题（2019.10.24）-- 【第 52 天】
+## 最新面试题【第 55 天】-- 2019.10.27
 
-1.[下面的代码有什么问题？（方法）](https://github.com/Seekload/go-interview/issues/71)<br>
-2.[下面代码有什么不规范的地方吗？](https://github.com/Seekload/go-interview/issues/70)<br>
-
+1.[关于 channel 下面描述正确的是？](https://github.com/Seekload/go-interview/issues/76)<br>
+2.[下面的代码有什么问题？](https://github.com/Seekload/go-interview/issues/77)<br>
 
 
 > 欢迎在 [Issues](https://github.com/Seekload/go-interview/issues) 和大家讨论学习，共同进步！
@@ -22,20 +21,26 @@
 - [**查看全部**](https://github.com/Seekload/go-interview/blob/master/category/history.md)<br>
 
 
-- 第 51 天（2019.10.23）<br>
-1.[下面的代码能否正确输出？（函数）](https://github.com/Seekload/go-interview/issues/68)<br>
-2.[下面代码输出什么？（切片）](https://github.com/Seekload/go-interview/issues/69)<br>
 
-- 第 50 天（2019.10.22）<br>
-1.[下面这段代码输出什么？（切片） ](https://github.com/Seekload/go-interview/issues/66)<br>
-2.[下面代码输出什么？（switch）](https://github.com/Seekload/go-interview/issues/67)<br>
+- 第 54 天（2019.10.26）<br>
+1.[下面的代码有什么问题？](https://github.com/Seekload/go-interview/issues/74)<br>
+2.[下面的代码输出什么？](https://github.com/Seekload/go-interview/issues/75)<br>
 
-- 第 49 天（2019.10.21）<br>
-1.[下面代码输出什么？（channel）](https://github.com/Seekload/go-interview/issues/64)<br>
-2.[下面这段代码输出什么？（json 解析）](https://github.com/Seekload/go-interview/issues/65)<br>
+
+- 第 53 天（2019.10.25）<br>
+1.[关于 channel 下面描述正确的是？](https://github.com/Seekload/go-interview/issues/72)<br>
+2.[下面的代码有几处问题？请详细说明。](https://github.com/Seekload/go-interview/issues/73)<br>
+
+
+
+- 第 52 天（2019.10.24）<br>
+1.[下面的代码有什么问题？（方法）](https://github.com/Seekload/go-interview/issues/71)<br>
+2.[下面代码有什么不规范的地方吗？](https://github.com/Seekload/go-interview/issues/70)<br>
+
 
 
 ......
+
 
 
 - 第 3 天（2019.08.25）<br>

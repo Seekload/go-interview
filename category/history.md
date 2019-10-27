@@ -1,6 +1,21 @@
 ## 历史题目
 >注：不包含当天的题目，当天的题在首页。
 
+- 第 54 天（2019.10.26）<br>
+1.[下面的代码有什么问题？](https://github.com/Seekload/go-interview/issues/74)<br>
+2.[下面的代码输出什么？](https://github.com/Seekload/go-interview/issues/75)<br>
+
+
+- 第 53 天（2019.10.25）<br>
+1.[关于 channel 下面描述正确的是？](https://github.com/Seekload/go-interview/issues/72)<br>
+2.[下面的代码有几处问题？请详细说明。](https://github.com/Seekload/go-interview/issues/73)<br>
+
+
+
+- 第 52 天（2019.10.24）<br>
+1.[下面的代码有什么问题？（方法）](https://github.com/Seekload/go-interview/issues/71)<br>
+2.[下面代码有什么不规范的地方吗？](https://github.com/Seekload/go-interview/issues/70)<br>
+
 - 第 51 天（2019.10.23）<br>
 1.[下面的代码能否正确输出？（函数）](https://github.com/Seekload/go-interview/issues/68)<br>
 2.[下面代码输出什么？（切片）](https://github.com/Seekload/go-interview/issues/69)<br>
