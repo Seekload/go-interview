@@ -8,10 +8,10 @@
 
 
 
-## 最新面试题【第 55 天】-- 2019.10.27
+## 最新面试题【第 58 天】-- 2019.10.30
 
-1.[关于 channel 下面描述正确的是？](https://github.com/Seekload/go-interview/issues/76)<br>
-2.[下面的代码有什么问题？](https://github.com/Seekload/go-interview/issues/77)<br>
+1.[下面的代码输出什么？（运算符）](https://github.com/Seekload/go-interview/issues/82)<br>
+2.[下面哪一行代码会 panic，请说明原因？（切片）](https://github.com/Seekload/go-interview/issues/83)<br>
 
 
 > 欢迎在 [Issues](https://github.com/Seekload/go-interview/issues) 和大家讨论学习，共同进步！
@@ -21,6 +21,17 @@
 - [**查看全部**](https://github.com/Seekload/go-interview/blob/master/category/history.md)<br>
 
 
+- 第 57 天（2019.10.29）<br>
+1.[下面哪一行代码会 panic，请说明原因？](https://github.com/Seekload/go-interview/issues/80)<br>
+2.[下面的代码输出什么？（select）](https://github.com/Seekload/go-interview/issues/81)<br>
+
+- 第 56 天（2019.10.28）<br>
+1.[下面的代码有什么问题？](https://github.com/Seekload/go-interview/issues/78)<br>
+2.[下面的代码输出什么？](https://github.com/Seekload/go-interview/issues/79)<br>
+
+- 第 55 天（2019.10.27）<br>
+1.[关于 channel 下面描述正确的是？](https://github.com/Seekload/go-interview/issues/76)<br>
+2.[下面的代码有什么问题？](https://github.com/Seekload/go-interview/issues/77)<br>
 
 - 第 54 天（2019.10.26）<br>
 1.[下面的代码有什么问题？](https://github.com/Seekload/go-interview/issues/74)<br>
