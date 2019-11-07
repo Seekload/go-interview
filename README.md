@@ -8,10 +8,11 @@
 
 
 
-## 最新面试题【第 58 天】-- 2019.10.30
 
-1.[下面的代码输出什么？（运算符）](https://github.com/Seekload/go-interview/issues/82)<br>
-2.[下面哪一行代码会 panic，请说明原因？（切片）](https://github.com/Seekload/go-interview/issues/83)<br>
+## 最新面试题【第 66 天】-- 2019.11.07
+
+1.[下面的代码输出什么？](https://github.com/Seekload/go-interview/issues/98)<br>
+2.[下面的代码输出什么？](https://github.com/Seekload/go-interview/issues/99)<br>
 
 
 > 欢迎在 [Issues](https://github.com/Seekload/go-interview/issues) 和大家讨论学习，共同进步！
@@ -21,33 +22,49 @@
 - [**查看全部**](https://github.com/Seekload/go-interview/blob/master/category/history.md)<br>
 
 
+- 第 65 天（2019.11.06）<br>
+1.[flag 是 bool 型变量，下面 if 表达式符合编码规范的是？ ](https://github.com/Seekload/go-interview/issues/96)<br>
+2.[下面的代码输出什么，请说明？](https://github.com/Seekload/go-interview/issues/97)<br>
+
+
+- 第 64 天（2019.11.05）<br>
+1.[下面列举的是 recover() 的几种调用方式，哪些是正确的？](https://github.com/Seekload/go-interview/issues/94)<br>
+2.[下面代码输出什么，请说明？](https://github.com/Seekload/go-interview/issues/95)<br>
+
+
+- 第 63 天（2019.11.04）<br>
+1.[下面选项正确的是？](https://github.com/Seekload/go-interview/issues/92)<br>
+2.[下面的代码输出什么？](https://github.com/Seekload/go-interview/issues/93)<br>
+
+
+- 第 62 天（2019.11.03）<br>
+1.[下面哪一行代码会 panic，请说明。](https://github.com/Seekload/go-interview/issues/90)<br>
+2.[下面代码输出什么？（数值范围） ](https://github.com/Seekload/go-interview/issues/91)<br>
+
+
+- 第 61 天（2019.11.02）<br>
+1.[下面这段代码输出什么？（多重赋值）](https://github.com/Seekload/go-interview/issues/88)<br>
+2.[下面代码输出什么？](https://github.com/Seekload/go-interview/issues/89)<br>
+
+
+- 第 60 天（2019.11.01）<br>
+1.[下面哪一行代码会 panic，请说明原因？ ](https://github.com/Seekload/go-interview/issues/86)<br>
+2.[下面的代码有什么问题？（锁） ](https://github.com/Seekload/go-interview/issues/87)<br>
+
+
+- 第 59 天（2019.10.31）<br>
+1.[下面的代码输出什么？（方法值）](https://github.com/Seekload/go-interview/issues/84)<br>
+2.[下面哪一行代码会 panic，请说明原因？（切片） ](https://github.com/Seekload/go-interview/issues/85)<br>
+
+
+- 第 58 天（2019.10.30）<br>
+1.[下面的代码输出什么？（运算符）](https://github.com/Seekload/go-interview/issues/82)<br>
+2.[下面哪一行代码会 panic，请说明原因？（切片）](https://github.com/Seekload/go-interview/issues/83)<br>
+
+
 - 第 57 天（2019.10.29）<br>
 1.[下面哪一行代码会 panic，请说明原因？](https://github.com/Seekload/go-interview/issues/80)<br>
 2.[下面的代码输出什么？（select）](https://github.com/Seekload/go-interview/issues/81)<br>
-
-- 第 56 天（2019.10.28）<br>
-1.[下面的代码有什么问题？](https://github.com/Seekload/go-interview/issues/78)<br>
-2.[下面的代码输出什么？](https://github.com/Seekload/go-interview/issues/79)<br>
-
-- 第 55 天（2019.10.27）<br>
-1.[关于 channel 下面描述正确的是？](https://github.com/Seekload/go-interview/issues/76)<br>
-2.[下面的代码有什么问题？](https://github.com/Seekload/go-interview/issues/77)<br>
-
-- 第 54 天（2019.10.26）<br>
-1.[下面的代码有什么问题？](https://github.com/Seekload/go-interview/issues/74)<br>
-2.[下面的代码输出什么？](https://github.com/Seekload/go-interview/issues/75)<br>
-
-
-- 第 53 天（2019.10.25）<br>
-1.[关于 channel 下面描述正确的是？](https://github.com/Seekload/go-interview/issues/72)<br>
-2.[下面的代码有几处问题？请详细说明。](https://github.com/Seekload/go-interview/issues/73)<br>
-
-
-
-- 第 52 天（2019.10.24）<br>
-1.[下面的代码有什么问题？（方法）](https://github.com/Seekload/go-interview/issues/71)<br>
-2.[下面代码有什么不规范的地方吗？](https://github.com/Seekload/go-interview/issues/70)<br>
-
 
 
 ......

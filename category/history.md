@@ -1,6 +1,43 @@
 ## 历史题目
 >注：不包含当天的题目，当天的题在首页。
+- 第 65 天（2019.11.06）<br>
+1.[flag 是 bool 型变量，下面 if 表达式符合编码规范的是？ ](https://github.com/Seekload/go-interview/issues/96)<br>
+2.[下面的代码输出什么，请说明？](https://github.com/Seekload/go-interview/issues/97)<br>
 
+
+- 第 64 天（2019.11.05）<br>
+1.[下面列举的是 recover() 的几种调用方式，哪些是正确的？](https://github.com/Seekload/go-interview/issues/94)<br>
+2.[下面代码输出什么，请说明？](https://github.com/Seekload/go-interview/issues/95)<br>
+
+
+- 第 63 天（2019.11.04）<br>
+1.[下面选项正确的是？](https://github.com/Seekload/go-interview/issues/92)<br>
+2.[下面的代码输出什么？](https://github.com/Seekload/go-interview/issues/93)<br>
+
+
+- 第 62 天（2019.11.03）<br>
+1.[下面哪一行代码会 panic，请说明。](https://github.com/Seekload/go-interview/issues/90)<br>
+2.[下面代码输出什么？（数值范围） ](https://github.com/Seekload/go-interview/issues/91)<br>
+
+
+- 第 61 天（2019.11.02）<br>
+1.[下面这段代码输出什么？（多重赋值）](https://github.com/Seekload/go-interview/issues/88)<br>
+2.[下面代码输出什么？](https://github.com/Seekload/go-interview/issues/89)<br>
+
+
+- 第 60 天（2019.11.01）<br>
+1.[下面哪一行代码会 panic，请说明原因？ ](https://github.com/Seekload/go-interview/issues/86)<br>
+2.[下面的代码有什么问题？（锁） ](https://github.com/Seekload/go-interview/issues/87)<br>
+
+
+- 第 59 天（2019.10.31）<br>
+1.[下面的代码输出什么？（方法值）](https://github.com/Seekload/go-interview/issues/84)<br>
+2.[下面哪一行代码会 panic，请说明原因？（切片） ](https://github.com/Seekload/go-interview/issues/85)<br>
+
+
+- 第 58 天（2019.10.30）<br>
+1.[下面的代码输出什么？（运算符）](https://github.com/Seekload/go-interview/issues/82)<br>
+2.[下面哪一行代码会 panic，请说明原因？（切片）](https://github.com/Seekload/go-interview/issues/83)<br>
 
 - 第 57 天（2019.10.29）<br>
 1.[下面哪一行代码会 panic，请说明原因？](https://github.com/Seekload/go-interview/issues/80)<br>
