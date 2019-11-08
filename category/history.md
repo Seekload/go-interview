@@ -1,5 +1,10 @@
 ## 历史题目
 >注：不包含当天的题目，当天的题在首页。
+
+- 第 66 天（2019.11.07）<br>
+1.[下面的代码输出什么？](https://github.com/Seekload/go-interview/issues/98)<br>
+2.[下面的代码输出什么？](https://github.com/Seekload/go-interview/issues/99)<br>
+
 - 第 65 天（2019.11.06）<br>
 1.[flag 是 bool 型变量，下面 if 表达式符合编码规范的是？ ](https://github.com/Seekload/go-interview/issues/96)<br>
 2.[下面的代码输出什么，请说明？](https://github.com/Seekload/go-interview/issues/97)<br>

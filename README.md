@@ -9,10 +9,10 @@
 
 
 
-## 最新面试题【第 66 天】-- 2019.11.07
+## 最新面试题【第 67 天】-- 2019.11.08
 
-1.[下面的代码输出什么？](https://github.com/Seekload/go-interview/issues/98)<br>
-2.[下面的代码输出什么？](https://github.com/Seekload/go-interview/issues/99)<br>
+1.[下面的代码输出什么？（for-range）](https://github.com/Seekload/go-interview/issues/100)<br>
+2.[下面的代码输出什么？（for-range）](https://github.com/Seekload/go-interview/issues/101)<br>
 
 
 > 欢迎在 [Issues](https://github.com/Seekload/go-interview/issues) 和大家讨论学习，共同进步！
@@ -21,6 +21,9 @@
 ## 历史面试题
 - [**查看全部**](https://github.com/Seekload/go-interview/blob/master/category/history.md)<br>
 
+- 第 66 天（2019.11.07）<br>
+1.[下面的代码输出什么？](https://github.com/Seekload/go-interview/issues/98)<br>
+2.[下面的代码输出什么？](https://github.com/Seekload/go-interview/issues/99)<br>
 
 - 第 65 天（2019.11.06）<br>
 1.[flag 是 bool 型变量，下面 if 表达式符合编码规范的是？ ](https://github.com/Seekload/go-interview/issues/96)<br>
