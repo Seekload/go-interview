@@ -1,6 +1,14 @@
 ## 历史题目
 >注：不包含当天的题目，当天的题在首页。
 
+- 第 68 天（2019.11.09）<br>
+1.[下面代码有什么问题吗？（go-loop）](https://github.com/Seekload/go-interview/issues/102)<br>
+2.[下面代码输出什么，请说明。](https://github.com/Seekload/go-interview/issues/103)<br>
+
+- 第 67 天（2019.11.08）<br>
+1.[下面的代码输出什么？（for-range）](https://github.com/Seekload/go-interview/issues/100)<br>
+2.[下面的代码输出什么？（for-range）](https://github.com/Seekload/go-interview/issues/101)<br>
+
 - 第 66 天（2019.11.07）<br>
 1.[下面的代码输出什么？](https://github.com/Seekload/go-interview/issues/98)<br>
 2.[下面的代码输出什么？](https://github.com/Seekload/go-interview/issues/99)<br>

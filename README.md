@@ -9,10 +9,10 @@
 
 
 
-## 最新面试题【第 67 天】-- 2019.11.08
+## 最新面试题【第 69 天】-- 2019.11.10
 
-1.[下面的代码输出什么？（for-range）](https://github.com/Seekload/go-interview/issues/100)<br>
-2.[下面的代码输出什么？（for-range）](https://github.com/Seekload/go-interview/issues/101)<br>
+1.[关于 slice 或 map 操作，下面正确的是？](https://github.com/Seekload/go-interview/issues/104)<br>
+2.[下面代码输出什么？](https://github.com/Seekload/go-interview/issues/105)<br>
 
 
 > 欢迎在 [Issues](https://github.com/Seekload/go-interview/issues) 和大家讨论学习，共同进步！
@@ -20,6 +20,15 @@
 
 ## 历史面试题
 - [**查看全部**](https://github.com/Seekload/go-interview/blob/master/category/history.md)<br>
+
+
+- 第 68 天（2019.11.09）<br>
+1.[下面代码有什么问题吗？（go-loop）](https://github.com/Seekload/go-interview/issues/102)<br>
+2.[下面代码输出什么，请说明。](https://github.com/Seekload/go-interview/issues/103)<br>
+
+- 第 67 天（2019.11.08）<br>
+1.[下面的代码输出什么？（for-range）](https://github.com/Seekload/go-interview/issues/100)<br>
+2.[下面的代码输出什么？（for-range）](https://github.com/Seekload/go-interview/issues/101)<br>
 
 - 第 66 天（2019.11.07）<br>
 1.[下面的代码输出什么？](https://github.com/Seekload/go-interview/issues/98)<br>
